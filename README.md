@@ -1,2 +1,1 @@
-# mochila-de-viagem
-crud javascript using localStorage to store data.
+# alura-armazenando-na-web
